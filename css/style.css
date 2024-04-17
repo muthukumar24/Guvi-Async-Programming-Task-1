@@ -1,3 +1,5 @@
+
+/* Header Description Style */
 #header-div
 {
     font-size: 1.8rem;
@@ -7,6 +9,7 @@
     margin-top: 40px;
 }
 
+/* Callback hell container Style */
 #callback-hell-div
 {
     font-size: 1.5rem;
@@ -14,4 +17,17 @@
     font-weight: 600;
     text-align: center;
     margin-top: 40px;
+}
+
+/* Indian Flag Image Style */
+#image-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#image-container img
+{
+    margin-top: 20px;
 }
